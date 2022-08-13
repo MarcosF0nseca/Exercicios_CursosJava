@@ -1,9 +1,7 @@
 
-
+Da série de exercícios do curso:  [Java COMPLETO Programação Orientada a Objetos +Projetos](https://ibm-learning.udemy.com/course/java-curso-completo/)
 
 ## **Aula 70: Exercício 2**
-
-Da série de exercícios do curso:  [Java COMPLETO Programação Orientada a Objetos +Projetos](https://ibm-learning.udemy.com/course/java-curso-completo/)
 
 
 **Enunciado:**
@@ -12,7 +10,7 @@ Fazer um programa para ler os dados de um funcionário (nome, salário bruto e i
 Depois, aumentar o salário do funcionário com base em uma porcentagem dada (somente o salário bruto é afetado pela porcentagem) e mostrar novamente os dados do funcionário.
 
 
-## **## Aula 70: Exercício 3**
+## **Aula 70: Exercício 3**
 
 **Enunciado:**
 
