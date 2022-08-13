@@ -1,4 +1,4 @@
-package com.company;
+package aula70.exercicio3;
 
 public class estudante {
 

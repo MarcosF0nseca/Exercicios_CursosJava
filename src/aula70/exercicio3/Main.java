@@ -1,9 +1,8 @@
-package com.company;
+package aula70.exercicio3;
 
 import java.util.Locale;
 import java.util.Objects;
 import java.util.Scanner;
-import com.company.estudante.*;
 
 public class Main {
     public static void main(String[] args) {
