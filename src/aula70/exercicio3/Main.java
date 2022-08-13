@@ -12,18 +12,7 @@ public class Main {
 
         String decisao;
         do {
-            System.out.println(
-                    "\n░░░░░░░░░░░█▀▀░░█░░░░░░"
-                            + "\n░░░░░░▄▀▀▀▀░░░░░█▄▄░░░░"
-                            + "\n░░░░░░█░█░░░░░░░░░░▐░░░"
-                            + "\n░░░░░░█░░░░░░░░▄▀▀░▐░░░"
-                            + "\n░░▄▀░░░▐░░░░░█▄▀░▐░░░░░"
-                            + "\n░░█░░░▐░░░░░░░░▄░█░░░░░"
-                            + "\n░░░█▄░░▀▄░░░░▄▀▐░█░░░░░"
-                            + "\n░░░█▐▀▀▀░▀▀▀▀░░▐░█░░░░░"
-                            + "\n ░░▐█▐▄░░▀░░░░░░▐░█▄▄░░░"
-                            + "\n░░░▀▀▄░░░░░░░░▄▐▄▄▄▀░░░"
-                            + "\n░░░░░░░░░░░░░░░░░░░░░░");
+
             System.out.println("****Bem vindo**** ");
             System.out.println("\nDigite a nota do primeiro trimestre: ");
             estudante.notaPrimeiroTrimestre = leitor.nextInt();
@@ -38,6 +27,7 @@ public class Main {
             decisao = leitor.next();
 
         } while (Objects.equals(decisao,"S")|| (Objects.equals(decisao,"s")));
+        leitor.close();
 
         System.out.println(" Obrigado por usar nosso programa");
 
